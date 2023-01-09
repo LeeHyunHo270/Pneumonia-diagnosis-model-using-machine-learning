@@ -26,7 +26,7 @@
 1. 입출력 데이터의 처리 방법<br>
 2. 모델의 학습 정확도<br>
 3. 모델 정확도를 높이기 위한 노력<br>
-4. 만든 모델의 차별점<br>
+4. Recall 점수<br>
 
 <hr>
 
@@ -46,4 +46,14 @@
 
 <br><br>
 
+## 모델 정확도를 높이기 위한 노력<br><br>
+![slide5](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C18.JPG?raw=true)
+![slide6](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C19.JPG?raw=true)
+![slide7](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C20.JPG?raw=true)
+<br><br>
+
+
+## Recall 점수<br><br>
+![slide8](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C23.JPG?raw=true)
+<br><br>
 
