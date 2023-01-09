@@ -36,12 +36,13 @@
 
 <br><br>
 
-## cd<br><br>
-cd는 현재 작업중인 작업 디렉토리의 위치를 바꾸는 명령어입니다. 보통 cd [dir_name] 이나 cd 단독으로 사용됩니다.
-<br><br>
-테스트 결과:
+## 모델의 학습 정확도<br><br>
 
-![slide2](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/cd.jpg?raw=true)
+![slide2](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C15.JPG?raw=true)
+
+![slide3](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C16.JPG?raw=true)
+
+![slide4](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C17.JPG?raw=true)
 
 <br><br>
 
