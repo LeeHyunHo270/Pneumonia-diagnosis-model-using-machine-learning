@@ -54,6 +54,6 @@
 
 
 ## Recall 점수<br><br>
-![slide8](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C23.JPG?raw=true)
+![slide8](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C22.JPG?raw=true)
 <br><br>
 
