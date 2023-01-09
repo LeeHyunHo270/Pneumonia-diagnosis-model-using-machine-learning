@@ -32,7 +32,7 @@
 
 ## 입출력 데이터의 처리 방법<br><br>
 
-![slide1](https://github.com/LeeHyunHo270/ImageSave/blob/main/Pneumonia/슬라이드14.jpg?raw=true)
+![slide1](https://github.com/LeeHyunHo270/ImageSave/blob/main/PneumoniaIMG/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C14.JPG?raw=true)
 
 <br><br>
 
